@@ -1,7 +1,5 @@
 - Hi, I’m @M-Nikox
-- I’m interested in coding, hardware, software
-- I’m currently learning Visual Programming (C# w/ Forms)
-- I’m looking to collaborate on difficult projects
+- I’m interested in hardware and therefore mainly invested in it aswell, tinkering is very fun and I adore getting to work with microcontrollers and various other types of development kits scattered around the internet.
 
 <!---
 M-Nikox/M-Nikox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
