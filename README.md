@@ -23,7 +23,7 @@ I enjoy:
 <table>
   <tr>
     <th>My LinkedIn</th>
-    <th>My CV (Please contact me for it on LinkedIn)</th>
+    <th>My CV</th>
   </tr>
   <tr>
     <td>
