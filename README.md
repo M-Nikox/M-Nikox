@@ -1,5 +1,3 @@
-# !IN CONSTRUCTION!
-
 # Hi! 👋, I'm M-Nikox
 
 I'm currently:
@@ -25,14 +23,14 @@ I enjoy:
 <table>
   <tr>
     <th>My LinkedIn</th>
-    <th>My CV</th>
+    <th>My CV (Please contact me for it on LinkedIn)</th>
   </tr>
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/matej-n-b78121235/"><img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"/></a>
     </td>
     <td>
-      <a href=""><img width="80" height="80" src="https://www.svgrepo.com/show/11803/curriculum-vitae.svg"/></a>
+      <a href="https://www.linkedin.com/in/matej-n-b78121235/"><img width="80" height="80" src="https://www.svgrepo.com/show/11803/curriculum-vitae.svg"/></a>
     </td>
   </tr>
 </table>
