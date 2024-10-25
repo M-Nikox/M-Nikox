@@ -12,7 +12,7 @@ I'm proficient in:
 - __Java__
 - __C++__
 - __C#__
-- __C__
+- __Javascript, HTML, CSS, SCSS, SASS, anime.js, React__
 
 I enjoy:
 - __Hardware__
