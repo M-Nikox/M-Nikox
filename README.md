@@ -2,7 +2,7 @@
 
 I'm currently:
 - __A student, 3rd year (Junior) enrolled in FCSE, Internetworking & Cyber Security__
-- __Learning NVIDIA Nsight, CUDA, .NET, Cloud & Web Application Development__
+- __Learning Azure, AWS, Google Cloud & Web Application Development__
 
 Ask me about:
 - __Anything related to sys admin, self-hosting, graphics programming, including rendering techniques, DXR implementation, shaders, or optimization strategies.__
@@ -22,14 +22,14 @@ I enjoy:
 <table>
   <tr>
     <th>My LinkedIn</th>
-    <th>My CV</th>
+    <th>My Website</th>
   </tr>
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/matej-n-b78121235/"><img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"/></a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/matej-n-b78121235/"><img width="80" height="80" src="https://www.svgrepo.com/show/11803/curriculum-vitae.svg"/></a>
+      <a href="https://m-nikox.github.io"><img width="80" height="80" src="https://www.svgrepo.com/show/11803/curriculum-vitae.svg"/></a>
     </td>
   </tr>
 </table>
@@ -88,7 +88,6 @@ I am a versatile and adaptable developer with a strong foundation in backend and
     <tr>
           <td>Game Development</td>
           <td>
-              <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/></a>
               <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/></a>
               <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40"/></a>
               <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" width="40" height="40"/></a>
