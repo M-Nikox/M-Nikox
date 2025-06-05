@@ -5,14 +5,13 @@ I'm currently:
 - __Learning NVIDIA Nsight, CUDA, .NET, Cloud & Web Application Development__
 
 Ask me about:
-- __Anything related to graphics programming, including rendering techniques, DXR implementation, shaders, or optimization strategies.__
+- __Anything related to sys admin, self-hosting, graphics programming, including rendering techniques, DXR implementation, shaders, or optimization strategies.__
 - __Anything related to Spine, 2D Animation, 3D Animation, FK & IK.__
 
 I'm proficient in:
 - __Java__
 - __C++__
-- __C#__
-- __Javascript, HTML, CSS, SCSS, anime.js__
+- __Javascript, HTML, CSS, anime.js, learning TailWind__
 
 I enjoy:
 - __Hardware__
