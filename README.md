@@ -1,7 +1,7 @@
 # Hi! 👋, I'm M-Nikox
 
 I'm currently:
-- __A student, 3rd year (Junior) enrolled in FCSE, Internetworking & Cyber Security__
+- __A student, 4th year (Junior) enrolled in FCSE, Internetworking & Cyber Security__
 - __Learning Azure, AWS, Google Cloud & Web Application Development__
 
 Ask me about:
@@ -16,6 +16,7 @@ I'm proficient in:
 I enjoy:
 - __Hardware__
 - __Tinkering__
+- __Servers, automation and sysadmin work__
 - __Exploring new ideas and technologies__
 
 
