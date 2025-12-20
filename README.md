@@ -1,4 +1,4 @@
-# Hi, I'm M-Nikox
+# hello, M-Nikox here
 
 I'm currently:
 - __A student, 4th year (Junior) enrolled in FCSE, Internetworking & Cyber Security__
