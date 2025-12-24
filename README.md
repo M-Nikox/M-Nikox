@@ -56,10 +56,8 @@ I am a versatile and adaptable developer with a strong foundation in backend and
         <td>Frontend Dev</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://animejs.com/documentation/assets/img/anime-mini-logo.svg" width="40" height="40"/></a>
             <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/></a>
         </td>
     </tr>
    <tr>
