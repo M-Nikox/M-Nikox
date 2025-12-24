@@ -5,7 +5,7 @@ I'm currently:
 - __Learning Azure, AWS, Google Cloud & Web Application Development__
 
 Ask me about:
-- __Anything related to sys admin, self-hosting, graphics programming, including rendering techniques, DXR implementation, shaders, or optimization strategies.__
+- __Anything related to sys admin, virtualization, containerization, self-hosting, graphics programming, including rendering techniques, DXR implementation, shaders, or optimization strategies.__
 - __Anything related to Spine, 2D Animation, 3D Animation, FK & IK.__
 
 I'm proficient in:
