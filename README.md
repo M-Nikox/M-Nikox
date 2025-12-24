@@ -11,7 +11,9 @@ Ask me about:
 I'm proficient in:
 - __Java__
 - __C++__
-- __Javascript, HTML, CSS, anime.js, learning TailWind__
+- __Javascript, HTML, CSS__
+- __Virtualization: VMware ESXi, VMware Workstation Pro, VirtualBox__
+- __Containerization: Docker__
 
 I enjoy:
 - __Hardware__
