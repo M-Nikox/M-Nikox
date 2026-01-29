@@ -42,8 +42,6 @@ I enjoy:
 
 ### Toolset
 
-I am a versatile and adaptable developer with a strong foundation in backend and hardware engineering. I am always eager to learn new technologies and am confident in my ability to quickly pick up new tools and frameworks no matter how challenging they may be.
-
 <table>
    <tr>
         <td>Programming/Backend</td>
