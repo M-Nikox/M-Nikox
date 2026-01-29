@@ -2,7 +2,7 @@
 
 I'm currently:
 - __A student, 4th year (Junior) enrolled in FCSE, Internetworking & Cyber Security__
-- __Learning Azure, AWS, Google Cloud & Web Application Development__
+- __Learning Cloud, Virtualization, Containerization & Web Application Development__
 
 Ask me about:
 - __Anything related to sys admin, virtualization, containerization, self-hosting, graphics programming, including rendering techniques, DXR implementation, shaders, or optimization strategies.__
