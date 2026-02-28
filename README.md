@@ -1,16 +1,13 @@
-## Hi there 👋
+# hello, M-Nikox here
 
-<!--
-**M-Nikox/M-Nikox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ask me about:
+- __Anything related to sys admin, virtualization, containerization, self-hosting, graphics programming, including rendering techniques, DXR implementation, shaders, or optimization strategies.__
+- __Anything related to Spine, 2D Animation, 3D Animation, FK & IK.__
 
-Here are some ideas to get you started:
+I'm proficient in:
+- __Java__
+- __Virtualization: VMware ESXi, VMware Workstation Pro, VirtualBox__
+- __Containerization: Docker__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy:
+- __Servers, automation and sysadmin work__
