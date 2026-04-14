@@ -14,4 +14,4 @@ I enjoy:
 - __Servers, networks, automation and sysadmin work__
 
 I'm currently working on:
-[Pholid](https://github.com/M-Nikox/Pholid)
+[Pholid](https://github.com/M-Nikox/Pholid) and [Slate](https://github.com/M-Nikox/Slate)
